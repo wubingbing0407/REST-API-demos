@@ -40,8 +40,8 @@ DEFAULT_POST_HEADERS = {
 }
 # 此处填写APIKEY
 
-ACCESS_KEY = ""
-SECRET_KEY = ""
+ACCESS_KEY = "f2f4ad88-9946434e-57ad1902-b2ea2"
+SECRET_KEY = "cc5c7f07-01c152f5-01dec6b4-dce08"
 
 
 # 首次运行可通过get_accounts()获取acct_id,然后直接赋值,减少重复获取。
